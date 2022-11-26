@@ -1,0 +1,32 @@
+body {
+  background-color: white
+}
+
+h1 {
+  font-style: normal;
+  font-family: Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+h2 {
+  font-family: Verdana;
+}
+
+.cbox {
+  border-width: 2pt;
+  border-radius: 5pt;
+  border-color: black;
+  width: 100px;
+  height: 100px;
+}
+
+td {
+  font-family: Lucida;
+}
+
+table {
+  align-items: center;
+  border-spacing: 20px;
+}
